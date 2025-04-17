@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Тестовый блог",
+    "owner": "user2",
+    "posts": [
+      {
+        "title": "Заголовк первого поста",
+        "content": "Текст первого поста",
+        "author": "user2",
+        "comments": [
+          {
+            "author": "user2",
+            "text": "Какой-то комментарий"
+          }
+        ],
+        "likes": [
+          "user2"
+        ],
+        "tags": [{"name": "тестовый тэг"}
+          ]
+      }
+    ]
+  },
+  {
+    "name": "blo2",
+    "owner": "user1",
+    "posts": [
+      {
+        "title": "11",
+        "content": "11",
+        "author": "user1",
+        "comments": [
+          {
+            "author": "user1",
+            "text": "какой-то коммент"
+          }
+        ],
+        "likes": [],
+        "tags": [
+          {
+            "name": "удочка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "такой-то блог",
+    "owner": "1",
+    "posts": [
+      {
+        "title": "1",
+        "content": "1",
+        "author": "1",
+        "comments": [],
+        "likes": [],
+        "tags": [
+          {
+            "name": "еда"
+          },
+          {
+            "name": "спорт"
+          }
+        ]
+      }
+    ]
+  }
+]
